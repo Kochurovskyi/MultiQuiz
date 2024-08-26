@@ -27,8 +27,8 @@ function StartScreen() {
 
   return (
     <div className="start">
-      <h2>20 questions each</h2>
-      <h3>You have 10 minutes. Select...</h3>
+      <h2>25 questions each</h2>
+      <h3>You have 12.5 minutes. Select...</h3>
       <div className="start">
         <button className="btn btn-ui" onClick={startPythonQuizBasics}>
           <img src="/Python.png" alt="Python Icon" />

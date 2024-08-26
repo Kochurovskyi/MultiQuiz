@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Application Screenshot
+
+Below are screenshots of the MultiQuiz application showcasing its user interface:
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Kochurovskyi/MultiQuiz/blob/main/public/AppScreenshot1.png" alt="App Screenshot 1" width="45%">
+  <img src="https://github.com/Kochurovskyi/MultiQuiz/blob/main/public/AppScreenshot2.png" alt="App Screenshot 2" width="45%">
+</div>
+
+This screenshot highlights the main quiz interface, including the question display, answer options, progress bar, and timer. The clean and intuitive design ensures a smooth user experience while taking the quiz.
+
 ## Available Scripts
 
 In the project directory, you can run:
