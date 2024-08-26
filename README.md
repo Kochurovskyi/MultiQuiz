@@ -1,6 +1,6 @@
-# What's Full Stack Quizes?
+# What's Full Stack Quizes (Web APP)?
 
-The application that personally helps me prepare for interviews. Instead of healthy sleep during managerial meetings, you can just play and brush up on your knowledge. All the fun is here: https://fullstackquiz.netlify.app/
+The application that personally helps me prepare for interviews. Instead of healthy sleep during managerial meetings, you can just play and brush up on your knowledge
 
 All fun is here: https://fullstackquiz.netlify.app/
 
@@ -17,7 +17,7 @@ The main quiz interface includs the question display, answer options, progress b
 
 ## Available Scripts
 
-In the project directory, you can run:
+The web application is fully developed in React, so in the project directory, you can run:
 
 ### `npm start`
 
