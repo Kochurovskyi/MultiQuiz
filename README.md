@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# What's Full Stack Quizes?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The application that personally helps me prepare for interviews. Instead of healthy sleep during managerial meetings, you can just play and brush up on your knowledge. All the fun is here: https://fullstackquiz.netlify.app/
 
-## Application Screenshot
+All fun is here: https://fullstackquiz.netlify.app/
+
+The application is not limited to quiz topics, and the questions (both quantity and quality) are constantly changing
 
 Below are screenshots of the MultiQuiz application showcasing its user interface:
 
@@ -11,7 +13,7 @@ Below are screenshots of the MultiQuiz application showcasing its user interface
   <img src="https://github.com/Kochurovskyi/MultiQuiz/blob/main/public/AppScreenshot2.png" alt="App Screenshot 2" width="45%">
 </div>
 
-This screenshot highlights the main quiz interface, including the question display, answer options, progress bar, and timer. The clean and intuitive design ensures a smooth user experience while taking the quiz.
+The main quiz interface includs the question display, answer options, progress bar, and timer. The clean and intuitive design ensures a smooth user experience while taking the quiz.
 
 ## Available Scripts
 
